@@ -1,0 +1,1 @@
+This project is part of my journey thru The Odin Project to become a better software developer.
